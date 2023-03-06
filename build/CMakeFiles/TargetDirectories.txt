@@ -1,0 +1,4 @@
+/Users/anna/Documents/ostep/build/CMakeFiles/test.dir
+/Users/anna/Documents/ostep/build/CMakeFiles/test2.dir
+/Users/anna/Documents/ostep/build/CMakeFiles/edit_cache.dir
+/Users/anna/Documents/ostep/build/CMakeFiles/rebuild_cache.dir

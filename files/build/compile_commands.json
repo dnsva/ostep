@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/anna/Documents/ostep/files/build",
+  "command": "/usr/bin/clang -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/test.dir/main.c.o -c /Users/anna/Documents/ostep/files/main.c",
+  "file": "/Users/anna/Documents/ostep/files/main.c"
+},
+{
+  "directory": "/Users/anna/Documents/ostep/files/build",
+  "command": "/usr/bin/clang -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/test2.dir/pipe.c.o -c /Users/anna/Documents/ostep/files/pipe.c",
+  "file": "/Users/anna/Documents/ostep/files/pipe.c"
+}
+]
