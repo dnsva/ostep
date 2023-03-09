@@ -1,3 +1,0 @@
-hello i am the child (pid:72786)
-hello, I am parent of 72786 (rc_wait:72786) (pid:72778)
-x recieved from child process is 42
