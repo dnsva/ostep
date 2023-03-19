@@ -1,0 +1,248 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  14 MAR 2023 13:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/anna/Documents/ostep/files/ch7 homework/questions.tex"
+(/Users/anna/Documents/ostep/files/ch7 homework/questions.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+) (./questions.aux)
+\openout1 = `questions.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 [ time   0 ] Run job 0 for 200.00 secs ( DONE at 200.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 [ time 200 ] Run job 1 for 200.00 secs ( DONE at 400.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 [ time 400 ] Run job 2 for 200.00 secs ( DONE at 600.00 )[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 Job   0 -- Response: 0.00  Turnaround 200.00  Wait 0.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 Job   1 -- Response: 200.00  Turnaround 400.00  Wait 200.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 Job   2 -- Response: 400.00  Turnaround 600.00  Wait 400.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 36--36
+ []        \OT1/cmtt/m/n/10 Average -- Response: 200.00  Turnaround 400.00  Wait 200.00[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 [ time   0 ] Run job 0 for 200.00 secs ( DONE at 200.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 [ time 200 ] Run job 1 for 200.00 secs ( DONE at 400.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 [ time 400 ] Run job 2 for 200.00 secs ( DONE at 600.00 )[] 
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 Job   0 -- Response: 0.00  Turnaround 200.00  Wait 0.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 Job   1 -- Response: 200.00  Turnaround 400.00  Wait 200.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 Job   2 -- Response: 400.00  Turnaround 600.00  Wait 400.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 62--62
+ []        \OT1/cmtt/m/n/10 Average -- Response: 200.00  Turnaround 400.00  Wait 200.00[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 [ time   0 ] Run job 2 for 100.00 secs ( DONE at 100.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 [ time 100 ] Run job 1 for 200.00 secs ( DONE at 300.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 [ time 300 ] Run job 0 for 300.00 secs ( DONE at 600.00 )[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 Job   2 -- Response: 0.00  Turnaround 100.00  Wait 0.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 Job   1 -- Response: 100.00  Turnaround 300.00  Wait 100.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 Job   0 -- Response: 300.00  Turnaround 600.00  Wait 300.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 91--91
+ []        \OT1/cmtt/m/n/10 Average -- Response: 133.33  Turnaround 333.33  Wait 133.33[] 
+ []
+
+[2]
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 [ time   0 ] Run job 0 for 300.00 secs ( DONE at 300.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 [ time 300 ] Run job 1 for 200.00 secs ( DONE at 500.00 )[] 
+ []
+
+
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 [ time 500 ] Run job 2 for 100.00 secs ( DONE at 600.00 )[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 Job   0 -- Response: 0.00  Turnaround 300.00  Wait 0.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 Job   1 -- Response: 300.00  Turnaround 500.00  Wait 300.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 Job   2 -- Response: 500.00  Turnaround 600.00  Wait 500.00[] 
+ []
+
+
+Overfull \hbox (31.74696pt too wide) in paragraph at lines 118--118
+ []        \OT1/cmtt/m/n/10 Average -- Response: 266.67  Turnaround 466.67  Wait 266.67[] 
+ []
+
+[3]
+Overfull \hbox (15.9971pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 [ time  12 ] Run job   0 for 1.00 secs ( DONE at 13.00 )[] 
+ []
+
+
+Overfull \hbox (15.9971pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 [ time  23 ] Run job   1 for 1.00 secs ( DONE at 24.00 )[] 
+ []
+
+
+Overfull \hbox (15.9971pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 [ time  29 ] Run job   2 for 1.00 secs ( DONE at 30.00 )[] 
+ []
+
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 Job   0 -- Response: 0.00  Turnaround 13.00  Wait 8.00[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 Job   1 -- Response: 1.00  Turnaround 24.00  Wait 14.00[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 Job   2 -- Response: 2.00  Turnaround 30.00  Wait 15.00[] 
+ []
+
+
+Overfull \hbox (10.74715pt too wide) in paragraph at lines 173--173
+ []        \OT1/cmtt/m/n/10 Average -- Response: 1.00  Turnaround 22.33  Wait 12.33[] 
+ []
+
+
+Overfull \hbox (7.05809pt too wide) in paragraph at lines 175--177
+[]\OT1/cmr/bx/n/10 For what types of work-loads does SJF de-liver the same turnaround
+ []
+
+[4] [5] (./questions.aux) ) 
+Here is how much of TeX's memory you used:
+ 411 strings out of 478268
+ 7712 string characters out of 5846347
+ 311891 words of memory out of 5000000
+ 18697 multiletter control sequences out of 15000+600000
+ 470340 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,38p,407b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on questions.pdf (5 pages, 96563 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,163 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  18 MAR 2023 21:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/anna/Documents/ostep/files/ch8 homework/questions.tex"
+(/Users/anna/Documents/ostep/files/ch8 homework/questions.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+) (./questions.aux)
+\openout1 = `questions.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 runTime   : the total CPU time needed by the job to finish[] 
+ []
+
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 ioFreq    : every ioFreq time units, the job issues an I/O[] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 0 ] Run JOB 0 at PRIORITY 1 [ TICKS 9 ALLOT 1 TIME 7 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 1 ] Run JOB 0 at PRIORITY 1 [ TICKS 8 ALLOT 1 TIME 6 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 2 ] Run JOB 0 at PRIORITY 1 [ TICKS 7 ALLOT 1 TIME 5 (of 8) ][] 
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 3 ] Run JOB 0 at PRIORITY 1 [ TICKS 6 ALLOT 1 TIME 4 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 4 ] Run JOB 0 at PRIORITY 1 [ TICKS 5 ALLOT 1 TIME 3 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 5 ] Run JOB 0 at PRIORITY 1 [ TICKS 4 ALLOT 1 TIME 2 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 6 ] Run JOB 0 at PRIORITY 1 [ TICKS 3 ALLOT 1 TIME 1 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 7 ] Run JOB 0 at PRIORITY 1 [ TICKS 2 ALLOT 1 TIME 0 (of 8) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 8 ] Run JOB 1 at PRIORITY 1 [ TICKS 9 ALLOT 1 TIME 3 (of 4) ][] 
+ []
+
+
+Overfull \hbox (57.99673pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 9 ] Run JOB 1 at PRIORITY 1 [ TICKS 8 ALLOT 1 TIME 2 (of 4) ][] 
+ []
+
+
+Overfull \hbox (63.24669pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 10 ] Run JOB 1 at PRIORITY 1 [ TICKS 7 ALLOT 1 TIME 1 (of 4) ][] 
+ []
+
+
+Overfull \hbox (63.24669pt too wide) in paragraph at lines 65--65
+ []    \OT1/cmtt/m/n/10 [ time 11 ] Run JOB 1 at PRIORITY 1 [ TICKS 6 ALLOT 1 TIME 0 (of 4) ][] 
+ []
+
+
+Overfull \hbox (73.7466pt too wide) in paragraph at lines 83--83
+ []    \OT1/cmtt/m/n/10 python mlfq.py -n 3 -q 10 -B 50 -S -i 5 -l 0,120,0:100,40,5:100,40,5 -c[] 
+ []
+
+
+Overfull \hbox (5.4972pt too wide) in paragraph at lines 91--91
+ []    \OT1/cmtt/m/n/10 python mlfq.py -n 3 -Q 10,20,40 -a 2 -l 0,150,0:0,150,0 -c[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+[2]
+Overfull \hbox (21.24706pt too wide) in paragraph at lines 99--99
+ []    \OT1/cmtt/m/n/10 python mlfq.py -n 2 -q 100 -S -i 1 -l 100,1000,99:0,1000,0 -c[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+[3] (./questions.aux) ) 
+Here is how much of TeX's memory you used:
+ 411 strings out of 478268
+ 7712 string characters out of 5846347
+ 310891 words of memory out of 5000000
+ 18697 multiletter control sequences out of 15000+600000
+ 470340 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,38p,386b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on questions.pdf (3 pages, 94057 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
