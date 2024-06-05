@@ -145,6 +145,9 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "ch14 homework/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

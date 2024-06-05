@@ -1,12 +1,17 @@
 [
 {
   "directory": "/Users/anna/Documents/ostep/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/test.dir/main.c.o -c /Users/anna/Documents/ostep/files/main.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test.dir/main.c.o -c /Users/anna/Documents/ostep/files/main.c",
   "file": "/Users/anna/Documents/ostep/files/main.c"
 },
 {
   "directory": "/Users/anna/Documents/ostep/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -o CMakeFiles/test2.dir/pipe.c.o -c /Users/anna/Documents/ostep/files/pipe.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test2.dir/pipe.c.o -c /Users/anna/Documents/ostep/files/pipe.c",
   "file": "/Users/anna/Documents/ostep/files/pipe.c"
+},
+{
+  "directory": "/Users/anna/Documents/ostep/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ch14 homework/CMakeFiles/null.dir/null.c.o -c \"/Users/anna/Documents/ostep/files/ch14 homework/null.c\"",
+  "file": "/Users/anna/Documents/ostep/files/ch14 homework/null.c"
 }
 ]

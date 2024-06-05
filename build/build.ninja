@@ -48,7 +48,7 @@ build cmake_object_order_depends_target_test: phony || CMakeFiles/test.dir
 
 build CMakeFiles/test.dir/main.c.o: C_COMPILER__test_Debug /Users/anna/Documents/ostep/files/main.c || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/main.c.o.d
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir
 
@@ -61,7 +61,7 @@ build CMakeFiles/test.dir/main.c.o: C_COMPILER__test_Debug /Users/anna/Documents
 # Link the executable test
 
 build test: C_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/main.c.o
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -79,7 +79,7 @@ build cmake_object_order_depends_target_test2: phony || CMakeFiles/test2.dir
 
 build CMakeFiles/test2.dir/pipe.c.o: C_COMPILER__test2_Debug /Users/anna/Documents/ostep/files/pipe.c || cmake_object_order_depends_target_test2
   DEP_FILE = CMakeFiles/test2.dir/pipe.c.o.d
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/test2.dir
   OBJECT_FILE_DIR = CMakeFiles/test2.dir
 
@@ -92,7 +92,7 @@ build CMakeFiles/test2.dir/pipe.c.o: C_COMPILER__test2_Debug /Users/anna/Documen
 # Link the executable test2
 
 build test2: C_EXECUTABLE_LINKER__test2_Debug CMakeFiles/test2.dir/pipe.c.o
-  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/test2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -124,7 +124,69 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /Users/anna/Documents/ostep/files/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target null
+
+
+#############################################
+# Order-only phony target for null
+
+build cmake_object_order_depends_target_null: phony || ch14$ homework/CMakeFiles/null.dir
+
+build ch14$ homework/CMakeFiles/null.dir/null.c.o: C_COMPILER__null_Debug /Users/anna/Documents/ostep/files/ch14$ homework/null.c || cmake_object_order_depends_target_null
+  DEP_FILE = "ch14 homework/CMakeFiles/null.dir/null.c.o.d"
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = "ch14 homework/CMakeFiles/null.dir"
+  OBJECT_FILE_DIR = "ch14 homework/CMakeFiles/null.dir"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target null
+
+
+#############################################
+# Link the executable ch14 homework/null
+
+build ch14$ homework/null: C_EXECUTABLE_LINKER__null_Debug ch14$ homework/CMakeFiles/null.dir/null.c.o
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = "ch14 homework/CMakeFiles/null.dir"
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = "ch14 homework/null"
+  TARGET_PDB = null.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ch14$ homework/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/anna/Documents/ostep/build/ch14 homework" && /usr/local/Cellar/cmake/3.24.2/bin/ccmake -S/Users/anna/Documents/ostep/files -B/Users/anna/Documents/ostep/build
+  DESC = Running CMake cache editor...
+  pool = console
+  restat = 1
+
+build ch14$ homework/edit_cache: phony ch14$ homework/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ch14$ homework/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd "/Users/anna/Documents/ostep/build/ch14 homework" && /usr/local/Cellar/cmake/3.24.2/bin/cmake --regenerate-during-build -S/Users/anna/Documents/ostep/files -B/Users/anna/Documents/ostep/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ch14$ homework/rebuild_cache: phony ch14$ homework/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
+
+build null: phony ch14$ homework/null
 
 # =============================================================================
 # Folder targets.
@@ -134,7 +196,14 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/anna/Documents/ostep/build
 
-build all: phony test test2
+build all: phony test test2 ch14$ homework/all
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/anna/Documents/ostep/build/ch14 homework
+
+build ch14$ homework/all: phony ch14$ homework/null
 
 # =============================================================================
 # Built-in targets
@@ -143,14 +212,14 @@ build all: phony test test2
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Users/anna/Documents/ostep/files/CMakeLists.txt /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCXXInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeGenericSystem.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/GNU.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Users/anna/Documents/ostep/files/CMakeLists.txt /Users/anna/Documents/ostep/files/ch14$ homework/CMakeLists.txt /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCXXInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeGenericSystem.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/GNU.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/anna/Documents/ostep/files/CMakeLists.txt /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCXXInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeGenericSystem.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/GNU.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+build /Users/anna/Documents/ostep/files/CMakeLists.txt /Users/anna/Documents/ostep/files/ch14$ homework/CMakeLists.txt /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCXXInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeGenericSystem.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Compiler/GNU.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Apple-Clang.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/Darwin.cmake /usr/local/Cellar/cmake/3.24.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
 
 
 #############################################

@@ -6,6 +6,10 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
@@ -15,8 +19,23 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0,
-						1
+						1,
+						2
+					]
+				},
+				{
+					"build" : "ch14 homework",
+					"jsonFile" : "directory-ch14 homework-Debug-f9b4796fb2a060209984.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ch14 homework",
+					"targetIndexes" : 
+					[
+						0
 					]
 				}
 			],
@@ -26,29 +45,38 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
 					"name" : "test",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
+					"directoryIndex" : 1,
+					"id" : "null::@4419bb8f555732a342f3",
+					"jsonFile" : "target-null-Debug-aa020937d4b6d264c0e6.json",
+					"name" : "null",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 0,
 					"id" : "test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test-Debug-423f28580b4b27b3c572.json",
+					"jsonFile" : "target-test-Debug-6314bc2b5c040f0a9ac0.json",
 					"name" : "test",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test2-Debug-71af8860dce54d2eaff1.json",
+					"jsonFile" : "target-test2-Debug-fde7e6048013bde0a26a.json",
 					"name" : "test2",
 					"projectIndex" : 0
 				}

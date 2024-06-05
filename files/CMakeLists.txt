@@ -4,3 +4,5 @@ project("test")
 
 add_executable(test main.c)
 add_executable(test2 pipe.c)
+
+add_subdirectory("ch14 homework")
